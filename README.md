@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bob
 
 Bob is a lackadaisical teenager. In conversation, his responses are very limited.
@@ -37,3 +38,6 @@ For example, if you're submitting `bob.cs` for the Bob exercise, the submit comm
 ## Source
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [view source](http://pine.fm/LearnToProgram/?Chapter=06)
+=======
+# Exercism-BobCSharp
+>>>>>>> FETCH_HEAD
